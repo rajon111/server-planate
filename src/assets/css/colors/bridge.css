@@ -1,6 +1,6 @@
 
 #trueHeader #logo {
-    background: url(../../images/colors/bridge/logo.png) left bottom no-repeat;
+    background: url(assets/images/colors/bridge/logo.png) left bottom no-repeat;
 }
 .top_nav {
     background-color: #a5d549;
@@ -28,7 +28,7 @@
     color: #a5d549;
 }
 .section_title_line {
-	background:url(../../images/colors/bridge/title_line1.png) 0 0 no-repeat;
+	background:url(assets/images/colors/bridge/title_line1.png) 0 0 no-repeat;
 }
 .domain_search_home #domain-searchform #dsearch {
     border: 1px solid #a5d549;
@@ -58,7 +58,7 @@
     border-top: 20px solid #a5d549;
 }
 .section_title_line.two {
-    background:url(../../images/colors/bridge/title_line2.png) 0 0 no-repeat;
+    background:url(assets/images/colors/bridge/title_line2.png) 0 0 no-repeat;
 }
 
 /*hover styles*/	
@@ -157,7 +157,7 @@
     background-color: #a5d549;
 }
 .section_holder3 .right .img_holder .shape {
-	background:url(../../images/colors/bridge/site-img3.png) 0 0 no-repeat;
+	background:url(assets/images/colors/bridge/site-img3.png) 0 0 no-repeat;
 }
 .bridge {
     color: #a5d549;
@@ -166,7 +166,7 @@
     color: #a5d549;
 }
 .section_holder4 {
-	background-image: url(../../images/colors/bridge/parallax_bg2.jpg);
+	background-image: url(assets/images/colors/bridge/parallax_bg2.jpg);
 }
 .section_holder5 .cont_holder.active h4 {
     color: #a5d549;
@@ -187,7 +187,7 @@
     background-color: #a5d549;
 }
 .section_holder6 {
-	background-image: url(../../images/colors/bridge/parallax_bg2.jpg);
+	background-image: url(assets/images/colors/bridge/parallax_bg2.jpg);
 }
 .section_holder7 .clint_holder .img_holder.active {
     background-color: #a5d549;
@@ -221,7 +221,7 @@
     background-color: #a5d549;
 }
 .acc-trigger a {
-	background:url(../../images/colors/bridge/accordion-ico5.png) 14px 13px no-repeat
+	background:url(assets/images/colors/bridge/accordion-ico5.png) 14px 13px no-repeat
 }
 
 .acc-trigger a:hover, .acc-trigger.active a, .acc-trigger.active a:hover {
@@ -545,7 +545,7 @@ ul.nav > li > a.active {
     background: none repeat scroll 0% 0% #a5d549;
 }
 .lt_title_line {
-	background:url(../../images/colors/bridge/title_line7.png) center top no-repeat;
+	background:url(assets/images/colors/bridge/title_line7.png) center top no-repeat;
 }
 
 .section_holder33 .plan_info .singup_but {
@@ -615,16 +615,16 @@ ul.nav > li > a.active {
     border: 1px solid #c9f76f;
 }
 .section_holder33 .price_table .arrow {
-	background:url(../../images/colors/bridge/site-img56.png) 0 0 no-repeat;
+	background:url(assets/images/colors/bridge/site-img56.png) 0 0 no-repeat;
 }
 .section_holder33 .price_table .arrow.two {
-   background:url(../../images/colors/bridge/site-img57.png) 0 0 no-repeat;
+   background:url(assets/images/colors/bridge/site-img57.png) 0 0 no-repeat;
 }
 .section_holder33 .price_table .arrow.three {
-    background:url(../../images/colors/bridge/site-img58.png) 0 0 no-repeat;
+    background:url(assets/images/colors/bridge/site-img58.png) 0 0 no-repeat;
 }
 .section_holder33 .price_table .arrow.four {
-    background:url(../../images/colors/bridge/site-img60.png) 0 0 no-repeat;
+    background:url(assets/images/colors/bridge/site-img60.png) 0 0 no-repeat;
 }
 .tabs10 li.active a {
     color: #a5d549;
@@ -654,7 +654,7 @@ ul.nav > li > a.active {
     color: #a5d549;
 }
 .section_title_line_full {
-	background:url(../../images/colors/bridge/title_line6.html) 0 0 no-repeat;
+	background:url(assets/images/colors/bridge/title_line6.html) 0 0 no-repeat;
 }
 .blue {
     color: #a5d549;
@@ -773,7 +773,7 @@ ul.nav > li > a.active {
 }
 
 .lt_title_line.two {
-	background:url(../../images/colors/bridge/title_line7.png) center top no-repeat;
+	background:url(assets/images/colors/bridge/title_line7.png) center top no-repeat;
 }
 .green {
     color: #a5d549;

@@ -3,7 +3,7 @@
  "use strict";
  
 $(function(){
-      SyntaxHighlighter.all();
+      // SyntaxHighlighter.all();
     });
     $(window).load(function(){
       $('.flexslider.style1').flexslider({
