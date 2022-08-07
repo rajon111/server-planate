@@ -1,0 +1,6 @@
+@media only screen and (max-width: 775px) {
+   .navbar-toggle{
+    float: right;
+    margin-top: -42px;
+   }
+  }
